@@ -3,7 +3,10 @@
 
 <h1 align="center">Hi 👋, I'm SHRAVAN K POOJARY</h1>
 <h3 align="center">An Embedded Systems & Edge AI enthusiast from India</h3>
-
+ <p>
+    <strong>A passionate Embedded Systems and Edge AI enthusiast focused on building innovative, real-world solutions. I thrive on solving complex problems through hands-on projects with microcontrollers, circuit design, and intelligent edge computing.</strong>
+  </p>
+</div>
 ## 🛠️ Currently Focused On
 
 - 🔭 **I’m currently working on:** A low-cost, portable ECG system with STM32 & ESP32 for real-time arrhythmia detection.
