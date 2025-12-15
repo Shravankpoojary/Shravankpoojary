@@ -26,10 +26,10 @@
     
     <img src="https://img.shields.io/badge/STM32-47A2F0?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32"/>
     <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
-    <img src="https://img.shields.io/badge/Protocols-555555?style=for-the-badge&logo=i2c&logoColor=white" alt="I2C/SPI/UART"/>
+    <img src="https://img.shields.io/badge/Protocols-555555?style=for-the-badge&logo=transferwise&logoColor=white" alt="I2C/SPI/UART"/> 
     <img src="https://img.shields.io/badge/MQTT-66C243?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT"/>
 
-    <img src="https://img.shields.io/badge/TensorFlow%20Lite-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow Lite"/>
+    <img src="https://img.shields.io/badge/TensorFlow%20Lite-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Lite"/>
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
     <img src="https://img.shields.io/badge/Altium%20Designer-A82A0F?style=for-the-badge&logo=altium&logoColor=white" alt="Altium Designer"/>
     <img src="https://img.shields.io/badge/Keil%20uVision-0078D4?style=for-the-badge&logo=arm&logoColor=white" alt="Keil uVision"/>
