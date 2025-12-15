@@ -1,20 +1,16 @@
-<!-- WAVING HEADER BANNER -->
-<div>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient" style="width: 100%;"  />
-</div>
-
-<!-- PROFILE PHOTO & HEADLINE -->
+<!-- PROFILE HEADER SECTION -->
 <div align="center">
-  <!-- REPLACE THIS LINK WITH YOUR ACTUAL PROFILE PHOTO URL -->
-  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_USER_ID?v=4" height="150" width="150" alt="Shravan Poojary" style="border-radius: 50%; border: 4px solid #0ff; box-shadow: 0 0 15px #0ff;" />
-  <br><br>
-  <h1>Hi 👋, I'm SHRAVAN K POOJARY</h1>
-  <h3>An Embedded Systems & Edge AI enthusiast from India</h3>
+  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_USER_ID" width="150" height="150" style="border-radius: 50%; border: 4px solid #2E8555;" />
+  <br/>
+  <br/>
 </div>
+<!-- WAVING HEADER BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E8555&height=160&section=header&text=Welcome%20to%20My%20Hub!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</div>
+<h1 align="center">Hi 👋, I'm SHRAVAN K POOJARY</h1>
+<h3 align="center">An Embedded Systems & Edge AI enthusiast from India</h3>
 
----
-
-<!-- QUICK INFO LIST -->
 ## 🛠️ Currently Focused On
 
 - 🔭 **I’m currently working on:** A low-cost, portable ECG system with STM32 & ESP32 for real-time arrhythmia detection.
@@ -26,17 +22,6 @@
 
 ---
 
-<!-- PAC-MAN CONTRIBUTION GRAPH -->
-<h3 align="left">📊 My Coding Activity</h3>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shravankpoojary/Shravankpoojary/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shravankpoojary/Shravankpoojary/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man themed GitHub contribution graph" src="https://raw.githubusercontent.com/Shravankpoojary/Shravankpoojary/output/pacman-contribution-graph.svg" style="width: 100%;">
-</picture>
-
----
-
-<!-- SKILLS SECTION -->
 <h3 align="left">🎯 Skills & Tools</h3>
 
 ### **Core Tech Stack**
@@ -60,7 +45,6 @@
 
 ---
 
-<!-- CONNECT & LINKS -->
 <h3 align="left">📞 Connect with Me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shravankpoojary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shravankpoojary" height="30" width="40" /></a>
@@ -74,7 +58,6 @@
 
 ---
 
-<!-- GITHUB STATS -->
 <h3 align="left">📈 My GitHub Stats</h3>
 
 <p align="left">
