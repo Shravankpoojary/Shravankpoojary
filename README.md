@@ -1,7 +1,6 @@
-<!-- WAVING HEADER BANNER -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E8555&height=160&section=header&text=Welcome%20to%20My%20Hub!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</div>
+
 <h1 align="center">Hi 👋, I'm SHRAVAN K POOJARY</h1>
 <h3 align="center">An Embedded Systems & Edge AI enthusiast from India</h3>
 
