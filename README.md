@@ -13,7 +13,7 @@
 - 🌱 **I’m currently learning:** TinyML, TensorFlow Lite for Microcontrollers, and advanced Embedded C.
 - 👯 **I’m looking to collaborate on:** Innovative embedded systems, Edge AI, or IoT projects that solve real-world problems.
 - 🤝 **I’m looking for help with:** Advanced real-time operating systems (RTOS) and low-power circuit optimization.
-- 💬 **Ask me about:** Embedded C, STM32, ESP32, SPI/I2C/UART protocols, and sensor integration.
+- 💬 **Ask me about:** Embedded C, STM32, ESP32, **SPI/I2C/UART** protocols, and sensor integration.
 - ⚡ **Fun fact:** I once built a custom temperature sensor from scratch for my smart home project!
 
 ---
