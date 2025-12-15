@@ -1,9 +1,3 @@
-<!-- PROFILE HEADER SECTION -->
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_USER_ID" width="150" height="150" style="border-radius: 50%; border: 4px solid #2E8555;" />
-  <br/>
-  <br/>
-</div>
 <!-- WAVING HEADER BANNER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2E8555&height=160&section=header&text=Welcome%20to%20My%20Hub!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
