@@ -7,7 +7,7 @@
     <strong>A passionate Embedded Systems and Edge AI enthusiast focused on building innovative, real-world solutions. I thrive on solving complex problems through hands-on projects with microcontrollers, circuit design, and intelligent edge computing.</strong>
   </p>
 </div>
-## 🛠️ Currently Focused On
+  🛠️ Currently Focused On
 
 - 🔭 **I’m currently working on:** A low-cost, portable ECG system with STM32 & ESP32 for real-time arrhythmia detection.
 - 🌱 **I’m currently learning:** TinyML, TensorFlow Lite for Microcontrollers, and advanced Embedded C.
