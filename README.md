@@ -2,7 +2,7 @@
 <h3 align="center">An Embedded Systems & Edge AI enthusiast from India</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/avatar.png" width="220">
+  <img src="https://raw.githubusercontent.com/shravankpoojary/REPO/main/assets/avatar.png" width="220">
 </p>
 
 
