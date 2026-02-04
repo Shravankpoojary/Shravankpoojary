@@ -1,51 +1,69 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=SHRAVAN%20K%20POOJARY&fontSize=50&animation=fadeIn" />
 
-  ### ⚡ Embedded Systems & Edge AI Enthusiast ⚡
-  
-  **Solving complex problems through microcontrollers, circuit design, and intelligent edge computing.**
 
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/shravankpoojary)
-  [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:shravankpoojary798@gmail.com)
-  [<img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" />](https://github.com/Shravankpoojary/your-repo-name/raw/main/first_resume_edited.pdf)
+
+<h1 align="center">Hi 👋, I'm SHRAVAN K POOJARY</h1>
+
+<h3 align="center">An Embedded Systems & Edge AI enthusiast from India</h3>
+
+ <p>
+
+    <strong>A passionate Embedded Systems and Edge AI enthusiast focused on building innovative, real-world solutions. I thrive on solving complex problems through hands-on projects with microcontrollers, circuit design, and intelligent edge computing.</strong>
+
+  </p>
+
 </div>
+
+  🛠️ Currently Focused On
+
+
+
+- 🔭 **I’m currently working on:** A low-cost, portable ECG system with STM32 & ESP32 for real-time arrhythmia detection.
+
+- 🌱 **I’m currently learning:** TinyML, TensorFlow Lite for Microcontrollers, and advanced Embedded C.
+
+- 👯 **I’m looking to collaborate on:** Innovative embedded systems, Edge AI, or IoT projects that solve real-world problems.
+
+- 🤝 **I’m looking for help with:** Advanced real-time operating systems (RTOS) and low-power circuit optimization.
+
+- 💬 **Ask me about:** Embedded C, STM32, ESP32, **SPI/I2C/UART** protocols, and sensor integration.
+
+- ⚡ **Fun fact:** I once built a custom temperature sensor from scratch for my smart home project!
+
+
 
 ---
 
-### 🛠️ Currently Focused On
 
-- 🔭 **Working on:** A low-cost, portable ECG system with STM32 & ESP32 for real-time arrhythmia detection.
-- 🌱 **Learning:** TinyML, TensorFlow Lite for Microcontrollers, and advanced Embedded C.
-- 👯 **Collaborating:** Looking for innovative Embedded, Edge AI, or IoT projects.
-- 🤝 **Need help with:** Advanced RTOS (FreeRTOS/Zephyr) and low-power circuit optimization.
 
----
+<h3 align="left">🎯 Skills & Tools</h3>
 
-### 🎯 Tech Stack & Tools
 
-| Category | Skills & Tools |
-| :--- | :--- |
-| **Languages** | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Microcontrollers** | ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) |
-| **Edge AI & IoT** | ![TensorFlow](https://img.shields.io/badge/TF_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-66C243?style=flat-square&logo=mqtt&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| **Protocols** | `I2C` `SPI` `UART` `CAN` `BLE` |
-| **Design/Analysis** | ![MATLAB](https://img.shields.io/badge/MATLAB-ED1C24?style=flat-square&logo=mathworks&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
 
----
+### **Core Tech Stack**
 
-### 📈 GitHub Stats
+<p>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shravankpoojary&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravankpoojary&layout=compact&langs_count=7&theme=dracula" />
-</div>
+    <img src="https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="Embedded C" />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shravankpoojary&theme=dracula" />
-</div>
+    <img src="https://img.shields.io/badge/STM32-47A2F0?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
 
----
+    <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
-</div>
+    <img src="https://img.shields.io/badge/I2C/SPI/UART-555555?style=for-the-badge" alt="Protocols" />
+
+    <img src="https://img.shields.io/badge/MQTT-66C243?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT" />
+
+    <img src="https://img.shields.io/badge/TensorFlow%20Lite-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Lite" />
+
+</p>
+
+
+
+### **Development Tools & Other Tech**
+
+<p align="left">
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img
