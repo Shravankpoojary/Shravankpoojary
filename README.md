@@ -1,3 +1,20 @@
+<h1 align="center">Hi 👋, I'm SHRAVAN K POOJARY</h1>
+<h3 align="center">An Embedded Systems & Edge AI enthusiast from India</h3>
+
+- 🔭 I’m currently working on **Low-cost, portable and power efficient ECG signal analysis and heartbeat sound acquisition for cardiac assessment**
+
+- 🌱 I’m currently learning **TinyML, TensorFlow Lite for Microcontrollers, and advanced Embedded C.**
+
+- 👯 I’m looking to collaborate on **Innovative embedded systems, Edge AI, or IoT projects that solve real-world problems.**
+
+- 🤝 I’m looking for help with **Advanced real-time operating systems (RTOS) and low-power circuit optimization.**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Shravankpoojary](https://github.com/Shravankpoojary)
+
+- 💬 Ask me about **Embedded C, STM32, ESP32, SPI/I2C/UART protocols, and sensor integration.**
+
+- ⚡ Fun fact **I once built a custom temperature sensor from scratch for my smart home project!**
+
 ### 🛠️ Technical Arsenal
 
 <table border="0">
