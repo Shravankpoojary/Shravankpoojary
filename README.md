@@ -1,68 +1,78 @@
-<!-- 🔷 FULL-WIDTH BANNER -->
 <p align="center">
-  <img src="https://github.com/Shravankpoojary/Shravankpoojary/blob/main/image1.png?raw=true"
-       width="100%"
-       alt="Shravan K Poojary – Embedded Systems Banner"/>
+  <img src="https://github.com/Shravankpoojary/Shravankpoojary/blob/main/image1.png?raw=true" width="95%" alt="Shravan K Poojary – Embedded Systems Banner"/>
 </p>
-
-<h1 align="center">Hi 👋, I'm SHRAVAN K POOJARY</h1>
-
-<!-- 👤 PROFILE IMAGE -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shravankpoojary/Shravankpoojary/main/Screenshot.png"
-       width="220"
-       alt="Embedded Systems Engineer"/>
-</p>
-
-<h3 align="center">An Embedded Systems & Edge AI enthusiast from India 🇮🇳</h3>
-
----
-
-- 🔭 I’m currently working on **Low-cost, portable and power-efficient ECG signal analysis and heartbeat sound acquisition for cardiac assessment**
-- 🌱 I’m currently learning **TinyML, TensorFlow Lite for Microcontrollers, and Advanced Embedded C**
-- 👯 I’m looking to collaborate on **Innovative Embedded, Edge AI, and IoT projects**
-- 🤝 I’m looking for help with **RTOS internals and low-power circuit optimization**
-- 👨‍💻 All of my projects are available at **[github.com/Shravankpoojary](https://github.com/Shravankpoojary)**
-- 💬 Ask me about **Embedded C, STM32, ESP32, SPI/I2C/UART, sensor integration**
-- ⚡ Fun fact: **I once built a custom temperature sensor from scratch for a smart home**
-
----
-
-## 🛠️ Technical Arsenal
 
 <table border="0">
   <tr>
-    <td width="33%" valign="top">
-      <h4>💻 Languages</h4>
-      <img src="https://img.shields.io/badge/Embedded_C-00599C?style=flat-square&logo=c&logoColor=white"/>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+    <td width="70%" valign="top">
+      <h1>Hi 👋, I'm SHRAVAN K POOJARY</h1>
+      <h3>An Embedded Systems & Edge AI enthusiast from India 🇮🇳</h3>
+      <p>🔭 I’m currently working on <b>Low-cost, portable and power-efficient ECG signal analysis</b></p>
+      <p>🌱 I’m currently learning <b>TinyML and TensorFlow Lite for Microcontrollers</b></p>
+      <p>👯 I’m looking to collaborate on <b>Innovative Edge AI & IoT projects</b></p>
+      <p>💬 Ask me about <b>Embedded C, STM32, ESP32, and Sensor Integration</b></p>
+      <p>⚡ Fun fact: <b>I once built a custom temperature sensor from scratch!</b></p>
     </td>
-    <td width="33%" valign="top">
-      <h4>🧠 Intelligence & IoT</h4>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MQTT-66C243?style=flat-square&logo=mqtt&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Zigbee-EB0443?style=flat-square&logo=zigbee&logoColor=white"/>
-    </td>
-    <td width="33%" valign="top">
-      <h4>📡 Protocols</h4>
-      <img src="https://img.shields.io/badge/I2C-205AD2?style=flat-square"/>
-      <img src="https://img.shields.io/badge/UART-4E4E4E?style=flat-square"/>
-      <img src="https://img.shields.io/badge/SPI-E34F26?style=flat-square"/>
-      <img src="https://img.shields.io/badge/PWM-0078D4?style=flat-square"/>
-      <img src="https://img.shields.io/badge/DAC-555555?style=flat-square"/>
+    <td width="30%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/Shravankpoojary/Shravankpoojary/main/Screenshot.png" width="220" style="border-radius: 15px;" alt="Embedded Systems Engineer"/>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🚀 Core Competencies
+### 🛠️ Technical Arsenal
 
-- **Low-Level Embedded C** on **ARM Cortex-M**
-- **Edge AI & Signal Processing** (ECG, TinyML, TFLM)
-- **IEEE Conference Presenter** – *Braille Link* (INSPIRE 2025)
-- **Hardware Debugging** using Oscilloscope & Multimeter
+<table border="0">
+  <tr>
+    <td width="33%" valign="top">
+      <h4>💻 Languages</h4>
+      <img src="https://img.shields.io/badge/Embedded_C-00599C?style=flat-square&logo=c&logoColor=white" alt="Embedded C" /> 
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+    </td>
+    <td width="33%" valign="top">
+      <h4>🧠 Intelligence & IoT</h4>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" /> 
+      <img src="https://img.shields.io/badge/MQTT-66C243?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT" />
+      <img src="https://img.shields.io/badge/Zigbee-EB0443?style=flat-square&logo=zigbee&logoColor=white" alt="Zigbee" />
+    </td>
+    <td width="33%" valign="top">
+      <h4>📡 Protocols</h4>
+      <img src="https://img.shields.io/badge/I2C-205AD2?style=flat-square" alt="I2C" />
+      <img src="https://img.shields.io/badge/UART-4E4E4E?style=flat-square" alt="UART" /> 
+      <img src="https://img.shields.io/badge/SPI-E34F26?style=flat-square" alt="SPI" /> 
+      <img src="https://img.shields.io/badge/PWM-0078D4?style=flat-square" alt="PWM" />
+      <img src="https://img.shields.io/badge/DAC-555555?style=flat-square" alt="DAC" /> 
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>📟 Development Boards</h4>
+      <img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" alt="STM32" />
+      <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" />
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" /> 
+      <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi" /> 
+    </td>
+    <td width="66%" colspan="2" valign="top">
+      <h4>🔧 Development Toolchain</h4>
+      <img src="https://img.shields.io/badge/STM32_CubeIDE-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32 Cube" /> 
+      <img src="https://img.shields.io/badge/Keil_uVision-000000?style=for-the-badge" alt="Keil" /> 
+      <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE" /> <br>
+      <img src="https://img.shields.io/badge/PlatformIO-F34B7D?style=for-the-badge&logo=platformio&logoColor=white" alt="PlatformIO" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+      <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" alt="CLion" />
+      <img src="https://img.shields.io/badge/Thonny-4584B6?style=for-the-badge&logo=python&logoColor=white" alt="Thonny" />
+    </td>
+  </tr>
+</table>
+
+---
+### 🚀 Core Competencies
+* **Low-Level Specialization:** Proficient in **C programming** for **ARM Cortex-M** microcontrollers with a focus on **memory optimization** and **bit manipulation**
+* **Edge AI & Signal Processing:** Developed a low-cost, portable ECG system using **STM32** and **ESP32** for on-device arrhythmia detection using **TinyML** and **TensorFlow Lite**.
+* **Published Research:** Presented **"Braille Link"**, a Raspberry-Pi MCU solution for the visually impaired, at the **IEEE International Conference INSPIRE 2025**.
+* **Hardware Troubleshooting:** Skilled in using an **oscilloscope** and **multimeter** for real-world industrial hardware debugging.
 
 ---
 
