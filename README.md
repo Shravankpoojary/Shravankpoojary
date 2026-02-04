@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm SHRAVAN K POOJARY</h1>
 <h3 align="center">An Embedded Systems & Edge AI enthusiast from India</h3>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/avatar.png" width="220">
+</p>
+
+
 - 🔭 I’m currently working on **Low-cost, portable and power efficient ECG signal analysis and heartbeat sound acquisition for cardiac assessment**
 
 - 🌱 I’m currently learning **TinyML, TensorFlow Lite for Microcontrollers, and advanced Embedded C.**
