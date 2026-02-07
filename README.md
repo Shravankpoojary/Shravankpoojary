@@ -96,12 +96,12 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=shravankpoojary&theme=github_dark" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Shravankpoojary&theme=github_dark" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravankpoojary&theme=github_dark&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravankpoojary&theme=github_dark&layout=compact" />
 
 <br/>
 
-[![](https://visitcount.itsvg.in/api?id=shravankpoojary&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Shravankpoojary&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
