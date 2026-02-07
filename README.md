@@ -96,6 +96,8 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <img src="https://nirzak-streak-stats.vercel.app/?user=Shravankpoojary&theme=github_dark" />
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravankpoojary&theme=github_dark&layout=compact" />
